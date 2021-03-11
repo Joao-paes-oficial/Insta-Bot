@@ -7,6 +7,10 @@
 - No código, deve informar qual é o nome de usuário e senha, que está localizado na linha 5.
 
 
+
+
+
+
 ## This is a bot for the Instagram app
 
 ## Requirements:
