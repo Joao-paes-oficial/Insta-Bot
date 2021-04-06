@@ -15,5 +15,5 @@
 
 ## Requirements:
 - Have Python3 installed;
-- Have the "InstaPy" library, to install, just go to cmd and type `pip install InstaPy`;
+- Have the InstaPy library, to install, just go to cmd and type `pip install InstaPy`;
 - In the code, you must inform the username and password, which is located on line 5.
